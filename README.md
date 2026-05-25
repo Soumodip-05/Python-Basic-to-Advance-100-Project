@@ -70,7 +70,7 @@ The main objective of this challenge is to:
 
 📥 Download the complete project roadmap here:
 
-## 👉 [📚 Project_List.pdf](./Project_List.pdf)
+## 👉 [![Project Roadmap](https://img.shields.io/badge/View-Python_Project_Roadmap-blue?style=for-the-badge)](https://github.com/Soumodip-05/Python-Basic-to-Advance-100-Project/blob/main/100_Days_Python_Project_Roadmap.pdf)
 
 The PDF contains:
 
