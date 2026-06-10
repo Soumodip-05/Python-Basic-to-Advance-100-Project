@@ -107,9 +107,8 @@ The PDF contains:
 
 | Day   | Project               | Status         |
 | ----- | --------------------- | -------------- |
-| Day 1 | Hello World App       | ✅ Completed    |
-| Day 2 | Scientific Calculator | ⏳ Completed    |
-| Day 3 | Number Guessing Game  | ⏳ Completed    |
+| Day 1 | Scientific Calculator | ✅ Completed    |
+| Day 2 | Number Guessing Game  | 🔄 In Progress  |
 | Day 4 | To-Do Application     | 🔄 In Progress |
 | Day 5 | Password Generator    | ⏳ Upcoming     |
 
