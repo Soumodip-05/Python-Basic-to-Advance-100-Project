@@ -292,8 +292,8 @@ The calculator is designed to safely handle:
 You can add screenshots here:
 
 ```markdown
-![Dark Mode](images/dark_mode.png)
-![Light Mode](images/light_mode.png)
+![Dark Mode]((https://github.com/Soumodip-05/Python-Basic-to-Advance-100-Project/blob/main/1.%20Calculator/images/dark_mode.png))
+![Light Mode]((https://github.com/Soumodip-05/Python-Basic-to-Advance-100-Project/blob/main/1.%20Calculator/images/light_mode.png))
 ```
 
 ---
