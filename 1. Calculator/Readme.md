@@ -3,6 +3,14 @@
 A modern **Scientific Calculator GUI Application** built using **Python** and **Tkinter** with advanced scientific operations, elegant rounded-button interface, dark/light theme switching, keyboard support, expression history, and interactive UI effects.
 
 ---
+# 📸 Application Preview
+<p align="center">
+  <img src="./images/dark_mode.png" width="45%" />
+  <img src="./images/light_mode.png" width="45%" />
+</p>
+
+
+---
 
 # 📌 Project Overview
 
@@ -284,17 +292,6 @@ The calculator is designed to safely handle:
 * Divide-by-zero errors
 * Incorrect function usage
 * Input formatting problems
-
----
-
-# 📸 Suggested Screenshots
-
-You can add screenshots here:
-
-```markdown
-![Dark Mode]((https://github.com/Soumodip-05/Python-Basic-to-Advance-100-Project/blob/main/1.%20Calculator/images/dark_mode.png))
-![Light Mode]((https://github.com/Soumodip-05/Python-Basic-to-Advance-100-Project/blob/main/1.%20Calculator/images/light_mode.png))
-```
 
 ---
 
