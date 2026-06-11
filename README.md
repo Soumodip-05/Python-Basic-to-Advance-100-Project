@@ -108,7 +108,7 @@ The PDF contains:
 | Day   | Project               | Status         |
 | ----- | --------------------- | -------------- |
 | Day 1 | Scientific Calculator | ✅ Completed    |
-| Day 2 | Number Guessing Game  | 🔄 In Progress  |
+| Day 2 | Number Guessing Game  | ✅ Completed  |
 | Day 4 | To-Do Application     | 🔄 In Progress |
 | Day 5 | Password Generator    | ⏳ Upcoming     |
 
