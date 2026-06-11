@@ -3,6 +3,13 @@
 A modern and interactive **Number Guessing Game** built using **Python** and **Tkinter** with a futuristic neon-themed GUI, smooth hover effects, restart system, dynamic messages, placeholder entries, and responsive game logic.
 
 ---
+# 📸 Application Preview
+
+<p align="center">
+  <img src="https://github.com/Soumodip-05/Python-Basic-to-Advance-100-Project/blob/main/2.%20Random%20number%20Guessing%20Game/images/preview.png" width="45%" />
+</p>
+
+---
 
 # 📌 Project Overview
 
@@ -221,14 +228,6 @@ for a clean and centered UI.
 ├── README.md
 └── screenshots/
 ```
-
----
-
-# 📸 Application Preview
-
-<p align="center">
-  <img src="./images/preview.png" width="45%" />
-</p>
 
 ---
 
