@@ -109,8 +109,9 @@ The PDF contains:
 | ----- | --------------------- | -------------- |
 | Day 1 | Scientific Calculator | ✅ Completed    |
 | Day 2 | Number Guessing Game  | ✅ Completed  |
-| Day 4 | To-Do Application     | 🔄 In Progress |
-| Day 5 | Password Generator    | ⏳ Upcoming     |
+| Day 3 | Password Generator    | ✅ Completed   |
+| Day 4 | Unit Converter     | 🔄 In Progress |
+| Day 5 | BMI Calculator    | ⏳ Upcoming     |
 
 > 📌 This table will be updated daily.
 
